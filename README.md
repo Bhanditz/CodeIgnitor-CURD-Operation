@@ -1,18 +1,9 @@
-# CodeIgnitor-CURD-Operation
-CodeIgnitor Mini Project 
+# CodeIgniter 2
+Open Source PHP Framework (originally from EllisLab)
 
-Download all files and setup on localhist 
+For more info, please refer to the user-guide at http://www.codeigniter.com/userguide2/  
+(also available within the download package for offline use)
 
-This is a mini project with curd operation 
-
-This is a Article project with all required functionality
-
-This project have many functionality listed below:
-
-1) This project have fully login and registration functionality with include bootstrap design form 
-2) We can add article from backend after successful login
-3) We can edit article and update from backend
-4) We can delete article from backend 
-5) Also listed all articles in frontend
-6) Also we can search article using article names
-7) Article listed with pagination
+**WARNING:** *CodeIgniter 2.x is no longer under development and only receives security patches until October 31st, 2015.
+Please update your installation to the latest CodeIgniter 3.x version available
+(upgrade instructions [here](http://www.codeigniter.com/userguide3/installation/upgrade_300.html)).*
